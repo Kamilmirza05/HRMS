@@ -1,0 +1,128 @@
+.group-child132 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-bottom: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 1059px;
+  height: 64.5px;
+}
+.robert-flyn49 {
+  position: absolute;
+  top: 14px;
+  left: 140px;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+}
+.human-resource27 {
+  top: 23px;
+  left: 346px;
+  font-weight: 600;
+  color: var(--dark-gray);
+}
+.div182,
+.human-resource27,
+.manager-hr,
+.roberbakshcom1 {
+  position: absolute;
+  letter-spacing: -0.02em;
+}
+.div182 {
+  top: 23px;
+  left: 49px;
+  font-weight: 600;
+}
+.manager-hr,
+.roberbakshcom1 {
+  color: var(--dark-gray);
+}
+.manager-hr {
+  top: 23px;
+  left: 512px;
+  font-weight: 600;
+}
+.roberbakshcom1 {
+  top: 32px;
+  left: 140px;
+}
+.group-child133 {
+  position: absolute;
+  top: 23.25px;
+  left: 19.25px;
+  border-radius: var(--br-9xs);
+  border: 1.5px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 18.5px;
+  height: 18.5px;
+}
+.group-child134 {
+  position: absolute;
+  top: 14px;
+  left: 93px;
+  width: 34px;
+  height: 34px;
+  object-fit: cover;
+}
+.active1,
+.frame-child18 {
+  position: relative;
+  width: 5px;
+  height: 5px;
+  flex-shrink: 0;
+}
+.active1 {
+  letter-spacing: -0.02em;
+  font-weight: 600;
+  display: inline-block;
+  width: 33px;
+  height: 14px;
+}
+.ellipse-parent11,
+.frame-wrapper11 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.ellipse-parent11 {
+  flex-direction: row;
+  gap: var(--gap-9xs);
+}
+.frame-wrapper11 {
+  position: absolute;
+  top: 22px;
+  left: 717px;
+  border-radius: var(--br-13xl);
+  border: 1px solid var(--black);
+  flex-direction: column;
+  padding: var(--padding-10xs) var(--padding-5xs);
+  font-size: var(--b1-size);
+}
+.delete-icon13,
+.edit-icon25,
+.view-icon {
+  position: absolute;
+  top: 9px;
+  left: 905px;
+  border-radius: var(--br-6xs);
+  width: 48px;
+  height: 48px;
+  overflow: hidden;
+}
+.delete-icon13,
+.view-icon {
+  left: 854px;
+}
+.delete-icon13 {
+  left: 956px;
+}
+.rectangle-parent25 {
+  position: absolute;
+  top: 233px;
+  left: 360px;
+  width: 1059px;
+  height: 64px;
+  text-align: left;
+  font-size: var(--font-size);
+  color: var(--black);
+  font-family: var(--b);
+}

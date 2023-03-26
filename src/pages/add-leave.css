@@ -1,0 +1,193 @@
+.group-child61,
+.rectangle-parent14 {
+  position: absolute;
+  left: 0;
+  width: 340px;
+  height: 983px;
+}
+.group-child61 {
+  top: 0;
+  background-color: var(--silver);
+}
+.rectangle-parent14 {
+  top: -1px;
+}
+.employee-name,
+.leave-type,
+.reason {
+  position: absolute;
+  width: 8.33%;
+  top: 16.8%;
+  left: 27.25%;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+  color: var(--black);
+  display: inline-block;
+}
+.leave-type,
+.reason {
+  top: 25.56%;
+}
+.reason {
+  top: 42.87%;
+}
+.add-leave-child,
+.add-leave-inner,
+.add-leave-item {
+  position: absolute;
+  height: 4.38%;
+  width: 30.49%;
+  top: 19.2%;
+  right: 42.29%;
+  bottom: 76.43%;
+  left: 27.22%;
+  border-radius: var(--br-5xs);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+}
+.add-leave-inner,
+.add-leave-item {
+  top: 27.95%;
+  bottom: 67.67%;
+}
+.add-leave-inner {
+  top: 45.26%;
+  bottom: 50.36%;
+}
+.add-leave-child1,
+.add-leave-child2 {
+  position: absolute;
+  border-radius: var(--br-3xs);
+}
+.add-leave-child1 {
+  top: 360.5px;
+  left: 411.5px;
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 139px;
+  height: 41px;
+}
+.add-leave-child2 {
+  top: 361px;
+  left: 708px;
+  background-color: var(--beige);
+  width: 40px;
+  height: 40px;
+}
+.chevron-down-icon11 {
+  position: absolute;
+  top: 369px;
+  left: 716px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.add-leave-child3 {
+  position: absolute;
+  top: 360.5px;
+  left: 559.5px;
+  border-radius: var(--br-3xs);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 139px;
+  height: 41px;
+}
+.date {
+  position: absolute;
+  top: 337px;
+  left: 412px;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+  color: var(--black);
+}
+.add-comment,
+.employee-name1,
+.end-date,
+.leave-type1,
+.start-date {
+  position: absolute;
+  top: 371px;
+  left: 427px;
+  font-size: var(--b-size);
+  letter-spacing: -0.02em;
+}
+.add-comment,
+.employee-name1,
+.end-date,
+.leave-type1 {
+  top: 456px;
+}
+.employee-name1,
+.end-date,
+.leave-type1 {
+  top: 286px;
+}
+.employee-name1,
+.end-date {
+  top: 200px;
+}
+.end-date {
+  top: 371px;
+  left: 575px;
+}
+.calendar-plus-02-icon2 {
+  position: absolute;
+  top: 369px;
+  left: 515px;
+}
+.calendar-plus-02-icon2,
+.calendar-plus-02-icon3,
+.plus-icon1 {
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.calendar-plus-02-icon3 {
+  position: absolute;
+  top: 369px;
+  left: 663px;
+}
+.plus-icon1 {
+  position: relative;
+  flex-shrink: 0;
+  display: none;
+}
+.import1 {
+  position: relative;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+}
+.plus-group {
+  position: absolute;
+  top: 511px;
+  left: 769px;
+  border-radius: var(--br-3xs);
+  background-color: var(--black);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-2xs) var(--padding-11xl);
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-9xs);
+  color: var(--white);
+}
+.add-leave-child4 {
+  position: absolute;
+  top: 596.5px;
+  left: 358.5px;
+  border-top: 1px solid var(--dark-gray);
+  box-sizing: border-box;
+  width: 1056px;
+  height: 1px;
+}
+.add-leave {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 982px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size);
+  color: var(--dark-gray);
+  font-family: var(--b);
+}

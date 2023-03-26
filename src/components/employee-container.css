@@ -1,0 +1,75 @@
+.dashboard1 {
+  position: absolute;
+  top: 55%;
+  left: 1.62%;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+}
+.header-button-icon,
+.header-button-icon1 {
+  position: absolute;
+  height: 40%;
+  width: 3.41%;
+  top: 54%;
+  right: 24.32%;
+  bottom: 6%;
+  left: 72.27%;
+  border-radius: var(--br-21xl);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.header-button-icon1 {
+  right: 28.41%;
+  left: 68.17%;
+}
+.profile-button-child {
+  position: relative;
+  width: 36px;
+  height: 36px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.super-admin {
+  position: relative;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+}
+.chevron-down-icon17 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.profile-button {
+  position: absolute;
+  height: 52%;
+  width: 15.27%;
+  top: 48%;
+  right: 8.36%;
+  bottom: 0;
+  left: 76.37%;
+  border-radius: var(--br-33xl);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-5xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-smi);
+  font-size: var(--font-size);
+  color: var(--dark-gray);
+}
+.header {
+  position: absolute;
+  top: 0;
+  left: 340px;
+  background-color: var(--white);
+  width: 1172px;
+  height: 100px;
+  text-align: left;
+  font-size: var(--b2-size);
+  color: var(--black);
+  font-family: var(--b);
+}

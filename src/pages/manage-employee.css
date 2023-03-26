@@ -1,0 +1,229 @@
+.manage-employee-child {
+  position: absolute;
+  top: 405px;
+  left: 579px;
+  border-right: 2px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 2px;
+  height: 297px;
+}
+.manage-employee-item {
+  position: absolute;
+  top: 125px;
+  left: 360px;
+  border-radius: 21px;
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 1060px;
+  height: 222px;
+}
+.manage-employee-inner {
+  position: absolute;
+  top: 138px;
+  left: 373px;
+  border-radius: 16px;
+  width: 196px;
+  height: 196px;
+  object-fit: cover;
+}
+.robert-flyn {
+  top: 189px;
+  left: 601px;
+  font-size: var(--b2-size);
+  font-weight: 600;
+  color: var(--black);
+}
+.div,
+.roberbakshcom,
+.robert-flyn {
+  position: absolute;
+  letter-spacing: -0.02em;
+}
+.roberbakshcom {
+  top: 227px;
+  left: 1227px;
+  font-weight: 600;
+  color: var(--black);
+}
+.div {
+  top: 257px;
+}
+.div,
+.human-resource,
+.robertbakshcom {
+  left: 1227px;
+  font-weight: 600;
+  color: var(--black);
+}
+.robertbakshcom {
+  position: absolute;
+  top: 287px;
+  letter-spacing: -0.02em;
+}
+.human-resource {
+  top: 197px;
+}
+.div1,
+.email,
+.hr-manager,
+.human-resource {
+  position: absolute;
+  letter-spacing: -0.02em;
+}
+.div1 {
+  top: 167px;
+  left: 1227px;
+  font-weight: 600;
+  color: var(--black);
+}
+.email,
+.hr-manager {
+  top: 231px;
+  left: 601px;
+}
+.email {
+  top: 227px;
+  left: 1167px;
+}
+.age,
+.department,
+.employee-id,
+.location {
+  position: absolute;
+  top: 257px;
+  left: 1176px;
+  letter-spacing: -0.02em;
+}
+.department,
+.employee-id,
+.location {
+  top: 287px;
+  left: 1149px;
+}
+.department,
+.employee-id {
+  top: 197px;
+  left: 1127px;
+}
+.employee-id {
+  top: 167px;
+}
+.active,
+.frame-child {
+  position: relative;
+  width: 5px;
+  height: 5px;
+  flex-shrink: 0;
+}
+.active {
+  letter-spacing: -0.02em;
+  font-weight: 600;
+  display: inline-block;
+  width: 33px;
+  height: 14px;
+}
+.ellipse-parent,
+.frame-div {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.ellipse-parent {
+  flex-direction: row;
+  gap: var(--gap-9xs);
+}
+.frame-div {
+  position: absolute;
+  top: 156px;
+  left: 600px;
+  border-radius: var(--br-13xl);
+  border: 1px solid var(--black);
+  flex-direction: column;
+  padding: var(--padding-10xs) var(--padding-5xs);
+  font-size: var(--b1-size);
+  color: var(--black);
+}
+.delete-icon,
+.edit-icon {
+  position: absolute;
+  top: 296px;
+  left: 600px;
+  border-radius: var(--br-6xs);
+  width: 38px;
+  height: 38px;
+  overflow: hidden;
+}
+.delete-icon {
+  left: 651px;
+}
+.line-div,
+.manage-employee-child1 {
+  position: absolute;
+  top: 390px;
+  left: 579px;
+  border-right: 2px solid var(--beige);
+  box-sizing: border-box;
+  width: 2px;
+  height: 50px;
+}
+.manage-employee-child1 {
+  top: 151.5px;
+  left: 1079.5px;
+  border-right: 1px solid var(--dark-gray);
+  width: 1px;
+  height: 169px;
+}
+.account-login {
+  top: 654px;
+  left: 462px;
+}
+.account-login,
+.bank-details,
+.company-details,
+.emergency-details,
+.financial-details,
+.personal-details {
+  position: absolute;
+  font-size: var(--b-size);
+  letter-spacing: -0.02em;
+  font-weight: 600;
+  text-align: right;
+}
+.personal-details {
+  top: 404px;
+  left: 449px;
+  color: var(--beige);
+}
+.bank-details,
+.company-details,
+.emergency-details,
+.financial-details {
+  top: 454px;
+  left: 440px;
+}
+.bank-details,
+.emergency-details,
+.financial-details {
+  top: 504px;
+  left: 447px;
+}
+.bank-details,
+.emergency-details {
+  top: 604px;
+  left: 431px;
+}
+.bank-details {
+  top: 554px;
+  left: 474px;
+}
+.manage-employee {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 982px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size);
+  color: var(--dark-gray);
+  font-family: var(--b);
+}

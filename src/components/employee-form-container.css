@@ -1,0 +1,40 @@
+.add-full-name15,
+.name15 {
+  position: absolute;
+  letter-spacing: -0.02em;
+}
+.name15 {
+  width: 33.48%;
+  top: 0;
+  left: 0.65%;
+  font-weight: 600;
+  display: inline-block;
+}
+.add-full-name15 {
+  top: 50%;
+  left: 3.26%;
+  font-size: var(--font-size);
+}
+.instance-child13 {
+  position: absolute;
+  height: 71.67%;
+  width: 100.22%;
+  top: 29.17%;
+  right: -0.11%;
+  bottom: -0.83%;
+  left: -0.11%;
+  border-radius: var(--br-5xs);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+}
+.name-parent11 {
+  position: absolute;
+  top: 329px;
+  left: 360px;
+  width: 460px;
+  height: 60px;
+  text-align: left;
+  font-size: var(--b1-size);
+  color: var(--dark-gray);
+  font-family: var(--b);
+}

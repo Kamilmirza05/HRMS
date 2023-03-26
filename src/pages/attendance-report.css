@@ -1,0 +1,721 @@
+.group-child76,
+.rectangle-parent17 {
+  position: absolute;
+  left: 0;
+  width: 340px;
+  height: 983px;
+}
+.group-child76 {
+  top: 0;
+  background-color: var(--silver);
+}
+.rectangle-parent17 {
+  top: -1px;
+}
+.attendance-report-child {
+  position: absolute;
+  top: 143.5px;
+  left: 733.5px;
+  border-radius: var(--br-3xs);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 139px;
+  height: 41px;
+}
+.attendance-report-item {
+  position: absolute;
+  top: 144px;
+  left: 1030px;
+  border-radius: var(--br-3xs);
+  background-color: var(--beige);
+  width: 40px;
+  height: 40px;
+}
+.chevron-down-icon13 {
+  position: absolute;
+  top: 152px;
+  left: 1038px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.attendance-report-inner {
+  position: absolute;
+  top: 143.5px;
+  left: 881.5px;
+  border-radius: var(--br-3xs);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 139px;
+  height: 41px;
+}
+.departments2 {
+  top: 120px;
+  left: 360px;
+  font-weight: 600;
+  color: var(--beige);
+}
+.date2,
+.departments2,
+.end-date1,
+.start-date1 {
+  position: absolute;
+  font-size: var(--b-size);
+  letter-spacing: -0.02em;
+}
+.date2 {
+  top: 120px;
+  left: 734px;
+  font-weight: 600;
+}
+.end-date1,
+.start-date1 {
+  top: 154px;
+  left: 749px;
+}
+.end-date1 {
+  left: 897px;
+}
+.group-child77 {
+  position: absolute;
+  top: -0.5px;
+  left: -0.5px;
+  border-radius: var(--br-3xs);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 297px;
+  height: 41px;
+}
+.icon2 {
+  position: absolute;
+  height: 40%;
+  width: 5.41%;
+  top: 30%;
+  right: 89.86%;
+  bottom: 30%;
+  left: 4.73%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.search-employee {
+  position: absolute;
+  top: 10px;
+  left: 42px;
+  letter-spacing: -0.02em;
+}
+.rectangle-parent18 {
+  position: absolute;
+  top: 144px;
+  left: 1124px;
+  width: 296px;
+  height: 40px;
+  font-size: var(--b-size);
+}
+.calendar-plus-02-icon4,
+.calendar-plus-02-icon5 {
+  position: absolute;
+  top: 152px;
+  left: 837px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.calendar-plus-02-icon5 {
+  left: 985px;
+}
+.attendance-report-child1 {
+  position: absolute;
+  top: 203px;
+  left: 359px;
+  border-radius: var(--br-2xs);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 1060px;
+  height: 694px;
+}
+.attendance-report-child2 {
+  position: absolute;
+  top: 203px;
+  left: 360px;
+  border-bottom: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 1059px;
+  height: 38px;
+}
+.div50,
+.div51,
+.div52,
+.employee2 {
+  position: absolute;
+  top: 214px;
+  left: 453px;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+}
+.div50,
+.div51,
+.div52 {
+  left: 558px;
+}
+.div51,
+.div52 {
+  left: 593px;
+}
+.div52 {
+  left: 628px;
+}
+.div53 {
+  left: 663px;
+}
+.div53,
+.div54,
+.div55,
+.div56,
+.div57,
+.div58,
+.div59,
+.div60 {
+  position: absolute;
+  top: 214px;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+}
+.div54 {
+  left: 698px;
+  color: var(--red);
+}
+.div55,
+.div56,
+.div57,
+.div58,
+.div59,
+.div60 {
+  left: 733px;
+}
+.div56,
+.div57,
+.div58,
+.div59,
+.div60 {
+  left: 768px;
+}
+.div57,
+.div58,
+.div59,
+.div60 {
+  left: 803px;
+}
+.div58,
+.div59,
+.div60 {
+  left: 838px;
+}
+.div59,
+.div60 {
+  left: 873px;
+}
+.div60 {
+  left: 908px;
+  color: var(--red);
+}
+.div61 {
+  left: 943px;
+}
+.div61,
+.div62,
+.div63 {
+  position: absolute;
+  top: 214px;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+}
+.div62 {
+  left: 978px;
+  color: var(--blue);
+}
+.div63 {
+  left: 1013px;
+}
+.div64 {
+  left: 1048px;
+}
+.div64,
+.div65,
+.div66,
+.div67,
+.presents {
+  position: absolute;
+  top: 214px;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+}
+.div65 {
+  left: 1083px;
+  color: var(--red);
+}
+.div66,
+.div67,
+.presents {
+  left: 1118px;
+}
+.div67,
+.presents {
+  left: 1153px;
+}
+.presents {
+  left: 1195px;
+  color: var(--color-mediumseagreen);
+}
+.absents {
+  left: 1270px;
+  color: var(--red);
+}
+.absents,
+.id2,
+.leaves {
+  position: absolute;
+  top: 214px;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+}
+.leaves {
+  left: 1344px;
+  color: var(--purple);
+}
+.id2 {
+  left: 409px;
+}
+.attendance-report-child3 {
+  position: absolute;
+  top: 212.25px;
+  left: 379.25px;
+  border-radius: var(--br-9xs);
+  border: 1.5px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 18.5px;
+  height: 18.5px;
+}
+.div68,
+.div69,
+.div70,
+.div71,
+.robert-flyn25 {
+  position: absolute;
+  top: 16px;
+  left: 850px;
+  letter-spacing: -0.02em;
+}
+.div69,
+.div70,
+.div71,
+.robert-flyn25 {
+  left: 926px;
+  color: var(--red);
+}
+.div70,
+.div71,
+.robert-flyn25 {
+  left: 997px;
+  color: var(--purple);
+}
+.div71,
+.robert-flyn25 {
+  left: 93px;
+  font-weight: 600;
+  color: var(--black);
+  text-align: left;
+}
+.div71 {
+  left: 49px;
+}
+.group-child78 {
+  position: absolute;
+  top: 14.25px;
+  left: 19.25px;
+  border-radius: var(--br-9xs);
+  border: 1.5px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 18.5px;
+  height: 18.5px;
+}
+.p12 {
+  position: relative;
+  letter-spacing: -0.02em;
+}
+.p-wrapper10,
+.p-wrapper11 {
+  background-color: var(--green-l);
+}
+.p-wrapper10 {
+  position: absolute;
+  top: 10px;
+  left: 188px;
+  border-radius: var(--br-6xs);
+  width: 30px;
+  height: 30px;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-7xs) var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.p-wrapper11 {
+  left: 223px;
+}
+.a-wrapper10,
+.l-wrapper10,
+.p-wrapper11,
+.p-wrapper12,
+.p-wrapper13 {
+  position: absolute;
+  top: 10px;
+  border-radius: var(--br-6xs);
+  width: 30px;
+  height: 30px;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-7xs) var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.a-wrapper10 {
+  left: 258px;
+  background-color: var(--color-lavenderblush);
+  color: var(--red);
+}
+.l-wrapper10,
+.p-wrapper12,
+.p-wrapper13 {
+  left: 293px;
+  background-color: var(--green-l);
+}
+.l-wrapper10,
+.p-wrapper13 {
+  left: 363px;
+}
+.l-wrapper10 {
+  left: 398px;
+  background-color: var(--purple-l);
+  color: var(--purple);
+}
+.p-wrapper14 {
+  left: 433px;
+  background-color: var(--green-l);
+}
+.a-wrapper11,
+.p-wrapper14,
+.p-wrapper15 {
+  position: absolute;
+  top: 10px;
+  border-radius: var(--br-6xs);
+  width: 30px;
+  height: 30px;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-7xs) var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.a-wrapper11 {
+  left: 468px;
+  background-color: var(--color-lavenderblush);
+  color: var(--red);
+}
+.p-wrapper15 {
+  left: 503px;
+}
+.p-wrapper15,
+.p-wrapper16,
+.p-wrapper17 {
+  background-color: var(--green-l);
+}
+.p-wrapper16 {
+  position: absolute;
+  top: 10px;
+  left: 573px;
+  border-radius: var(--br-6xs);
+  width: 30px;
+  height: 30px;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-7xs) var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.p-wrapper17 {
+  left: 643px;
+}
+.l-wrapper11,
+.p-wrapper17,
+.p-wrapper18,
+.p-wrapper19 {
+  position: absolute;
+  top: 10px;
+  border-radius: var(--br-6xs);
+  width: 30px;
+  height: 30px;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-7xs) var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.l-wrapper11 {
+  left: 678px;
+  background-color: var(--purple-l);
+  color: var(--purple);
+}
+.p-wrapper18,
+.p-wrapper19 {
+  left: 748px;
+  background-color: var(--green-l);
+}
+.p-wrapper19 {
+  left: 783px;
+}
+.group-child79,
+.robert-flyn-parent10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1059px;
+  height: 53px;
+}
+.group-child79 {
+  border-bottom: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+}
+.robert-flyn-parent10 {
+  text-align: center;
+  font-size: var(--font-size);
+}
+.parent10,
+.parent11,
+.parent12,
+.parent13,
+.parent14,
+.parent15,
+.parent16,
+.parent17,
+.parent18,
+.parent19,
+.parent20,
+.parent21 {
+  position: absolute;
+  top: 241px;
+  left: 360px;
+  width: 1059px;
+  height: 53px;
+  font-size: var(--b-size);
+  color: var(--color-mediumseagreen);
+}
+.parent11,
+.parent12,
+.parent13,
+.parent14,
+.parent15,
+.parent16,
+.parent17,
+.parent18,
+.parent19,
+.parent20,
+.parent21 {
+  top: 294px;
+}
+.parent12,
+.parent13,
+.parent14,
+.parent15,
+.parent16,
+.parent17,
+.parent18,
+.parent19,
+.parent20,
+.parent21 {
+  top: 347px;
+}
+.parent13,
+.parent14,
+.parent15,
+.parent16,
+.parent17,
+.parent18,
+.parent19,
+.parent20,
+.parent21 {
+  top: 400px;
+}
+.parent14,
+.parent15,
+.parent16,
+.parent17,
+.parent18,
+.parent19,
+.parent20,
+.parent21 {
+  top: 453px;
+}
+.parent15,
+.parent16,
+.parent17,
+.parent18,
+.parent19,
+.parent20,
+.parent21 {
+  top: 506px;
+}
+.parent16,
+.parent17,
+.parent18,
+.parent19,
+.parent20,
+.parent21 {
+  top: 559px;
+}
+.parent17,
+.parent18,
+.parent19,
+.parent20,
+.parent21 {
+  top: 612px;
+}
+.parent18,
+.parent19,
+.parent20,
+.parent21 {
+  top: 665px;
+}
+.parent19,
+.parent20,
+.parent21 {
+  top: 718px;
+}
+.parent20,
+.parent21 {
+  top: 771px;
+}
+.parent21 {
+  top: 824px;
+}
+.attendance-report-child4 {
+  position: absolute;
+  top: 143.5px;
+  left: 358.5px;
+  border-radius: var(--br-3xs);
+  background-color: var(--white);
+  border: 1px solid var(--beige);
+  box-sizing: border-box;
+  width: 362px;
+  height: 195px;
+}
+.all-departments2,
+.finance,
+.human-resource25,
+.marketing {
+  position: absolute;
+  font-size: var(--b-size);
+  letter-spacing: -0.02em;
+}
+.all-departments2 {
+  top: 154px;
+  left: 380px;
+  font-weight: 600;
+}
+.finance,
+.human-resource25,
+.marketing {
+  top: 198px;
+  left: 409px;
+}
+.finance,
+.human-resource25 {
+  top: 229px;
+}
+.human-resource25 {
+  top: 260px;
+}
+.attendance-report-child5,
+.attendance-report-child6,
+.attendance-report-child7,
+.attendance-report-child8 {
+  position: absolute;
+  top: 199.25px;
+  left: 379.25px;
+  border-radius: var(--br-9xs);
+  border: 1.5px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 18.5px;
+  height: 18.5px;
+}
+.attendance-report-child6,
+.attendance-report-child7,
+.attendance-report-child8 {
+  top: 230.25px;
+}
+.attendance-report-child7,
+.attendance-report-child8 {
+  top: 261.25px;
+}
+.attendance-report-child8 {
+  top: 292.25px;
+}
+.sales {
+  position: absolute;
+  top: 291px;
+  left: 409px;
+  font-size: var(--b-size);
+  letter-spacing: -0.02em;
+}
+.chevron-down-icon14,
+.plus-icon2 {
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.chevron-down-icon14 {
+  position: absolute;
+  top: 152px;
+  left: 684px;
+}
+.plus-icon2 {
+  position: relative;
+  flex-shrink: 0;
+  display: none;
+}
+.import2 {
+  position: relative;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+}
+.plus-container {
+  position: absolute;
+  top: 909px;
+  left: 1303px;
+  border-radius: var(--br-3xs);
+  background-color: var(--black);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-2xs) var(--padding-11xl);
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-9xs);
+  font-size: var(--font-size);
+  color: var(--white);
+}
+.attendance-report {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 982px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--b1-size);
+  color: var(--black);
+  font-family: var(--b);
+}

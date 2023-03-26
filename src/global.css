@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --b: Poppins;
+
+  /* font sizes */
+  --b1-size: 10px;
+  --font-size: 12px;
+  --b-size: 14px;
+  --b2-size: 28px;
+  --font1-size: 18px;
+
+  /* Colors */
+  --white: #fff;
+  --black: #2c2f32;
+  --beige: #c49150;
+  --light-gray: #efefef;
+  --color-gainsboro: #e1e1e1;
+  --silver: #fcfcfc;
+  --dark-gray: #868b90;
+  --red: #fd5858;
+  --green-l: #eaf9f0;
+  --color-mediumseagreen: #38c671;
+  --purple-l: #f1ecfd;
+  --purple: #7549eb;
+  --color-lavenderblush: #ffeeee;
+  --blue: #46b7da;
+
+  /* Gaps */
+  --gap-9xs: 4px;
+  --gap-3xs: 10px;
+  --gap-smi: 13px;
+
+  /* Paddings */
+  --padding-10xs: 3px;
+  --padding-5xs: 8px;
+  --padding-xs: 12px;
+  --padding-2xs: 11px;
+  --padding-7xs: 6px;
+  --padding-3xs: 10px;
+  --padding-11xl: 30px;
+
+  /* border radiuses */
+  --br-9xs: 4px;
+  --br-3xs: 10px;
+  --br-6xs: 7px;
+  --br-13xl: 32px;
+  --br-5xs: 8px;
+  --br-33xl: 52px;
+  --br-21xl: 40px;
+  --br-10xs: 3px;
+  --br-2xs: 11px;
+}

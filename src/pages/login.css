@@ -1,0 +1,197 @@
+.login-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--white);
+  width: 526px;
+  height: 982px;
+}
+.avl-night-min-1,
+.login-item {
+  position: absolute;
+  left: 526px;
+  width: 986px;
+}
+.avl-night-min-1 {
+  top: 0;
+  height: 982px;
+  object-fit: cover;
+}
+.login-item {
+  top: 549px;
+  background: linear-gradient(180deg, transparent, #131313);
+  height: 433px;
+}
+.union-icon {
+  position: relative;
+  width: 140px;
+  height: 32.43px;
+}
+.hello,
+.welcome-to-our {
+  position: absolute;
+  left: 107px;
+  letter-spacing: -0.02em;
+}
+.hello {
+  top: 268px;
+  font-size: 34px;
+  font-weight: 600;
+  color: var(--black);
+}
+.welcome-to-our {
+  top: 324px;
+  font-size: var(--b-size);
+  display: inline-block;
+  width: 325px;
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--beige);
+  width: 325px;
+  height: 46px;
+}
+.login1 {
+  position: absolute;
+  top: 12px;
+  left: 144px;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 684px;
+  left: 101px;
+  width: 325px;
+  height: 46px;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--b-size);
+  color: var(--light-gray);
+}
+.forget-password,
+.remember-me {
+  position: absolute;
+  top: 646px;
+  letter-spacing: -0.02em;
+}
+.forget-password {
+  left: 321px;
+  font-weight: 600;
+  text-align: right;
+}
+.remember-me {
+  left: 136px;
+}
+.copyright-2023,
+.privacy-policy,
+.terms-of-service {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: -0.02em;
+}
+.copyright-2023,
+.privacy-policy {
+  left: 128px;
+}
+.copyright-2023 {
+  left: 239px;
+}
+.terms-of-service-parent {
+  position: absolute;
+  top: 883px;
+  left: 95px;
+  width: 337px;
+  height: 18px;
+  text-align: center;
+}
+.instance-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+}
+.login-inner {
+  position: absolute;
+  top: 646px;
+  left: 107px;
+  width: 18px;
+  height: 18px;
+}
+.where {
+  font-weight: 300;
+}
+.food-and-community {
+  font-weight: 600;
+}
+.where-food-and-container {
+  position: absolute;
+  top: 724px;
+  left: 1061px;
+  font-size: 40px;
+  letter-spacing: -0.02em;
+  line-height: 97.5%;
+  color: var(--light-gray);
+  text-align: right;
+  display: inline-block;
+  width: 405px;
+}
+.component-1 {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 434px;
+  left: 97px;
+}
+.subtract-icon {
+  position: relative;
+  width: 334px;
+  height: 50px;
+}
+.password {
+  position: absolute;
+  top: 0;
+  left: 6.59%;
+  letter-spacing: -0.02em;
+}
+.component-2-child {
+  position: absolute;
+  height: 47.37%;
+  width: 0.3%;
+  top: 32.46%;
+  right: 92.96%;
+  bottom: 20.18%;
+  left: 6.74%;
+  border-right: 1px solid var(--black);
+  box-sizing: border-box;
+}
+.component-2 {
+  position: absolute;
+  top: 504px;
+  left: 97px;
+  width: 334px;
+  height: 57px;
+  font-size: var(--b1-size);
+  color: var(--beige);
+}
+.login {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 982px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size);
+  color: var(--dark-gray);
+  font-family: var(--b);
+}

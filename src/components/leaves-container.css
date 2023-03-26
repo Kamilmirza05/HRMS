@@ -1,0 +1,74 @@
+.dashboard120,
+.face-sad-icon4 {
+  position: relative;
+  flex-shrink: 0;
+}
+.face-sad-icon4 {
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.dashboard120 {
+  letter-spacing: -0.02em;
+  font-weight: 600;
+  display: inline-block;
+  width: 190px;
+}
+.drop27,
+.sub-button78,
+.sub-button79 {
+  position: absolute;
+  border-radius: var(--br-3xs);
+  height: 46px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-xs) var(--padding-2xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+}
+.drop27 {
+  top: 0;
+  left: 0;
+  background-color: var(--black);
+  width: 280px;
+  gap: var(--gap-3xs);
+}
+.sub-button78,
+.sub-button79 {
+  left: 34px;
+  width: 246px;
+}
+.sub-button78 {
+  top: 48px;
+  background-color: var(--light-gray);
+  gap: var(--gap-3xs);
+  color: var(--black);
+}
+.sub-button79 {
+  top: 96px;
+  color: var(--dark-gray);
+}
+.leaves-child6,
+.leaves-child7 {
+  position: absolute;
+  top: 49px;
+  left: 20px;
+  border-radius: var(--br-5xs);
+  width: 14px;
+  height: 24px;
+}
+.leaves-child7 {
+  height: 71px;
+}
+.leaves6 {
+  position: relative;
+  width: 280px;
+  height: 142px;
+  flex-shrink: 0;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--b-size);
+  color: var(--silver);
+  font-family: var(--b);
+}

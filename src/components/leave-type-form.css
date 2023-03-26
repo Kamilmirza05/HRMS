@@ -1,0 +1,242 @@
+.group-child130 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--silver);
+  width: 340px;
+  height: 983px;
+}
+.union-icon1 {
+  position: relative;
+  width: 140px;
+  height: 32.43px;
+  flex-shrink: 0;
+}
+.frame-child10 {
+  background-color: var(--silver);
+  width: 232px;
+  height: 10px;
+}
+.dashboard2,
+.frame-child10,
+.grid-01-icon {
+  position: relative;
+  flex-shrink: 0;
+}
+.grid-01-icon {
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.dashboard2 {
+  letter-spacing: -0.02em;
+  font-weight: 600;
+  display: inline-block;
+  width: 190px;
+}
+.drop,
+.main,
+.sub-button,
+.sub-button1 {
+  border-radius: var(--br-3xs);
+  height: 46px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-xs) var(--padding-2xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+}
+.main {
+  width: 280px;
+  flex-shrink: 0;
+  gap: var(--gap-3xs);
+}
+.drop,
+.sub-button,
+.sub-button1 {
+  position: absolute;
+}
+.drop {
+  top: 0;
+  left: 0;
+  background-color: var(--black);
+  width: 280px;
+  gap: var(--gap-3xs);
+}
+.sub-button,
+.sub-button1 {
+  top: 48px;
+  left: 34px;
+  width: 246px;
+  color: var(--dark-gray);
+}
+.sub-button1 {
+  top: 96px;
+  background-color: var(--light-gray);
+  gap: var(--gap-3xs);
+  color: var(--black);
+}
+.employees-child,
+.employees-item {
+  position: absolute;
+  top: 49px;
+  left: 20px;
+  border-radius: var(--br-5xs);
+  width: 14px;
+  height: 24px;
+}
+.employees-item {
+  height: 71px;
+}
+.employees {
+  position: relative;
+  width: 280px;
+  height: 142px;
+  flex-shrink: 0;
+  overflow: hidden;
+  color: var(--silver);
+}
+.drop1,
+.sub-button2,
+.sub-button3,
+.sub-button4 {
+  position: absolute;
+  border-radius: var(--br-3xs);
+  height: 46px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-xs) var(--padding-2xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+}
+.drop1 {
+  top: 0;
+  left: 0;
+  width: 280px;
+  gap: var(--gap-3xs);
+}
+.sub-button2,
+.sub-button3,
+.sub-button4 {
+  top: 48px;
+  left: 34px;
+  width: 246px;
+}
+.sub-button3,
+.sub-button4 {
+  top: 96px;
+}
+.sub-button4 {
+  top: 144px;
+}
+.attendance-child,
+.attendance-inner,
+.attendance-item {
+  position: absolute;
+  top: 49px;
+  left: 21px;
+  border-radius: var(--br-5xs);
+  width: 13px;
+  height: 23px;
+}
+.attendance-inner,
+.attendance-item {
+  height: 70px;
+}
+.attendance-inner {
+  top: 97px;
+}
+.attendance {
+  position: relative;
+  width: 280px;
+  height: 46px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.sub-button15 {
+  position: absolute;
+  top: 240px;
+  left: 34px;
+  border-radius: var(--br-3xs);
+  width: 246px;
+  height: 46px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-xs) var(--padding-2xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+}
+.setup-inner {
+  position: absolute;
+  top: 193px;
+  left: 21px;
+  border-radius: var(--br-5xs);
+  width: 13px;
+  height: 70px;
+}
+.sub-button17,
+.sub-button18,
+.sub-button19 {
+  position: absolute;
+  top: 288px;
+  left: 34px;
+  border-radius: var(--br-3xs);
+  width: 246px;
+  height: 46px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-xs) var(--padding-2xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+}
+.sub-button18,
+.sub-button19 {
+  top: 192px;
+}
+.sub-button19 {
+  top: 336px;
+}
+.setup-child1,
+.setup-child2,
+.setup-child3 {
+  position: absolute;
+  top: 241px;
+  left: 21px;
+  border-radius: var(--br-5xs);
+  width: 13px;
+  height: 70px;
+}
+.setup-child2,
+.setup-child3 {
+  top: 145px;
+}
+.setup-child3 {
+  top: 289px;
+}
+.union-parent {
+  position: absolute;
+  top: 58px;
+  left: 28px;
+  height: 872px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.rectangle-parent23 {
+  position: absolute;
+  top: -1px;
+  left: 0;
+  width: 340px;
+  height: 983px;
+  text-align: left;
+  font-size: var(--b-size);
+  color: var(--dark-gray);
+  font-family: var(--b);
+}
